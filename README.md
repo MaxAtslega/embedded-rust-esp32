@@ -1,7 +1,5 @@
 # Embedded Rust Example for ESP32
 
-Certainly! Below is a list of useful commands for developing and debugging with GDB and OpenOCD on an ARM Cortex-M microcontroller, such as your STMicroelectronics NUCLEO-F756ZG board. These commands are formatted in Markdown for easy reference:
-
 
 ## Useful Commands for ARM Cortex-M Development and Debugging
 
